@@ -23,6 +23,7 @@ body {
     padding: 1em;
 }
 img {
+    display: flex;
     flex-wrap: wrap;
     width: 20%;
 }
