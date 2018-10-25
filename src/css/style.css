@@ -1,0 +1,28 @@
+body {
+    font-family: 'Playfair Display', serif;
+    width: 80%;
+    margin: auto;
+}
+#mainArea {
+    background-color: pink;
+}
+#title {
+    width: 20%;
+    height: 100%;
+    float: left;
+    border: 2px solid black;
+    padding: 1em;
+    margin: 1em 0;
+}
+#photos {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 60%;
+    float: left;
+    padding: 1em;
+}
+img {
+    flex-wrap: wrap;
+    width: 20%;
+}
