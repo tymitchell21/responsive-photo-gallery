@@ -40,6 +40,8 @@ p {
     align-self: center;
     flex-direction: column;
 }
+
+
 #photos {
     display: flex;
     flex-direction: column;
